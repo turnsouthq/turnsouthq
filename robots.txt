@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://turnsouthq.com/sitemap.xml
